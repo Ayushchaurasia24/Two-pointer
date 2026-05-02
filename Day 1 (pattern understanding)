@@ -11,3 +11,6 @@ Only in Arrays and Linklist DS
 ------
 Note : If ques asked the number[target-sum](array is sorted or unsorted 2ptr works) , But if it asked to return INDEX (sorted array in ques needed)
        When we do sorting indexes were changes and it is not reliable to find right indexes 
+=====
+Q.Two Sum
+#Detection Idea : arr ques -> unsorted/sorted -> 2 number sum (target value ) / Dont ask for EXTRA SPACE 
