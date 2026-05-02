@@ -1,0 +1,13 @@
+#Two Pointer
+-When 2 people work together , work done in half of the time Incomparision with Single Person doing same work.
+
+#When 2-pointers works?
+Only in Arrays and Linklist DS
+
+*Arrays (When sorted/sort , rearranegment( 001122) / merge / remove duplicates
+*LinkList ( Detect Cycle)
+
+-If ques ask find pair/tripletes/quadrates , we should think about 2 ptr
+------
+Note : If ques asked the number[target-sum](array is sorted or unsorted 2ptr works) , But if it asked to return INDEX (sorted array in ques needed)
+       When we do sorting indexes were changes and it is not reliable to find right indexes 
