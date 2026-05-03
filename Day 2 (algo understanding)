@@ -1,0 +1,5 @@
+Learned Merge Sort and why we used that 
+
+Merge sort TC: O(n log n) & SC : O(n)
+----
+Also solved Leetcode 977 Square of a sorted array Using 2ptr (Not using merge sort But concept of Merge Sort Helped in solving this Ques Efficiently.
